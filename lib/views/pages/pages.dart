@@ -6,3 +6,4 @@ import 'package:fluttertoast/fluttertoast.dart';
 
 part 'home.dart';
 part 'price.dart';
+

@@ -149,6 +149,7 @@ class _PricePageState extends State<PricePage> {
     return Scaffold(
       resizeToAvoidBottomInset: false,
       appBar: AppBar(
+        
         title: const Text("Price Calculator Page"),
         centerTitle: true,
         backgroundColor: Colors.blue,
